@@ -1,5 +1,5 @@
 # Novo-Sigaa
-Atividade da disciplina "Tecnologias Web 1" que se consiste em construir em html o site "SIGAA"
+Atividade da disciplina "Tecnologias Web 1" que se consiste em usar o Bootstrap para modificar o projeto "Novo Sigaa"
 
 Disciplina: Tecnologias Web
 
