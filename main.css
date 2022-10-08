@@ -1,0 +1,110 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  header {
+    background: #394674;
+    color: #fff;
+    width: 100%;
+    padding: 0.5rem;
+  
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav {
+    width: 100%;
+    padding: 0.5rem;
+  
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  form {
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+  }
+  
+  footer {
+    background: #394674;
+    color: #fff;
+    width: 100%;
+    padding: 0.5rem;
+  
+    position: relative;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+  }
+
+  .Login {
+    color: white;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    font-size: 13pt;
+  }
+
+  .FundosPalavras {
+    background-color: #394674; color: white;
+  }
+
+  #informacoes-perfil {
+    font-size: 15pt;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #394674;
+    color: white;
+  }
+
+  .item-painel {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color:#394674;
+  }
+
+  .tabela tr:nth-child(even) {
+    background-color: #394674;
+    color: white;
+  }
+
+  #tabela th {
+    background-color: #394674;
+    color: white;
+  }
+
+  .letra-preta{
+    color: black
+  }
+
+  #posicaoPesquisaHistorico{
+    display: flex;
+    justify-content: end;
+  }
+
+  .cor-branco{
+    color: white;
+  }
+
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
